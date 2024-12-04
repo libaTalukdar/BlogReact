@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "title": "Web Development",
+      "description": "We offer professional web development services using the latest technologies. From simple websites to complex web applications, we've got you covered.",
+      "image": "https://via.placeholder.com/150",
+      "price": "$1500"
+    },
+    {
+      "id": 2,
+      "title": "SEO Optimization",
+      "description": "Improve your website's search engine ranking with our SEO optimization services. We provide comprehensive solutions to increase your online visibility.",
+      "image": "https://via.placeholder.com/150",
+      "price": "$800"
+    },
+    {
+      "id": 3,
+      "title": "Graphic Design",
+      "description": "Our graphic design services include logo design, branding, and marketing materials. We create visually stunning designs that make your brand stand out.",
+      "image": "https://via.placeholder.com/150",
+      "price": "$500"
+    },
+    {
+      "id": 4,
+      "title": "Content Writing",
+      "description": "We offer high-quality content writing services for blogs, websites, and social media. Our team of professional writers ensures engaging and original content.",
+      "image": "https://via.placeholder.com/150",
+      "price": "$300"
+    },
+    {
+      "id": 5,
+      "title": "Digital Marketing",
+      "description": "Boost your online presence with our digital marketing services. We provide social media marketing, email marketing, and PPC advertising solutions.",
+      "image": "https://via.placeholder.com/150",
+      "price": "$1000"
+    }
+  ]
+  
