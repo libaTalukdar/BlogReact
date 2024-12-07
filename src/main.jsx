@@ -3,7 +3,8 @@ import { createRoot } from 'react-dom/client'
 import App from './App.jsx'
 import './index.css'
 import {
-  createBrowserRouter,
+  // createBrowserRouter,
+  createHashRouter,
   RouterProvider,
 } from "react-router-dom";
 import Home from './pages/Home.jsx';
@@ -13,7 +14,7 @@ import Contact from './pages/Contact.jsx';
 import Services from './pages/Services.jsx';
 import SingleBlog from './components/SingleBlog.jsx';
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: "/",
     element: <App/>,
